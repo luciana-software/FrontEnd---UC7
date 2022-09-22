@@ -1,1 +1,2 @@
 Inicio do login.
+Finalização do cadastro de login.
