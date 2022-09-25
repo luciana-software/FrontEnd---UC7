@@ -1,4 +1,2 @@
 Inicio do login.
-Fim do login.
 Finalização do cadastro de login.
-
