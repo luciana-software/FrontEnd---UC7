@@ -1,4 +1,5 @@
 Inicio da aula git.
+Conclusão do login.
 Tentando terminar o login.
 Continuação da aula git.
 Terceira alteração no arquivo git.
